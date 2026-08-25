@@ -1,0 +1,11 @@
+# OS / Editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp / Backup
+*.tmp
+*.bak
+
+# Installations-Archive koennen optional ausgelagert werden (Git LFS)
+# *.zip filter=lfs diff=lfs merge=lfs -text
